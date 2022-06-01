@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71affe50-33eb-4338-ba4a-8a325cc4b02b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Practice/YogaClass/styles/.sass-cache/657896de81049634eccbeae658f2273deb101494/styles.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/YogaClass/styles/.sass-cache/657896de81049634eccbeae658f2273deb101494/styles.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/YogaClass/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/YogaClass/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/YogaClass/styles/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/YogaClass/styles/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/YogaClass/styles/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/YogaClass/styles/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/styles/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sZLvIqFPX2sVBZ0zrgmQnpgjbz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71affe50-33eb-4338-ba4a-8a325cc4b02b" name="Default Changelist" comment="" />
+      <created>1621075396692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621075396692</updated>
+      <workItem from="1621075403165" duration="34327000" />
+      <workItem from="1621154382917" duration="10603000" />
+      <workItem from="1621174621197" duration="3728000" />
+      <workItem from="1621527595561" duration="4687000" />
+      <workItem from="1621532641008" duration="8373000" />
+      <workItem from="1621623096778" duration="16784000" />
+      <workItem from="1622211862723" duration="28921000" />
+      <workItem from="1624133058540" duration="438000" />
+      <workItem from="1654033385667" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
